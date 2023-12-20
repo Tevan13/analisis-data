@@ -14,6 +14,7 @@
 1. Kloning Repositori :
 ```bash
 git clone https://github.com/Tevan13/analisis-data.git
+```
 2. Pindah ke direktori repositori:
 ```bash
 cd analisis-data
