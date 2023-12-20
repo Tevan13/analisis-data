@@ -2,9 +2,7 @@
 
 ## Getting Started
 
-### Prerequisites
-
-**AnalisisData.ipynb**
+### **AnalisisData.ipynb**
 - Pastikan Anda telah menginstal Jupyter Notebook. Jika belum, Anda dapat menginstalnya dengan perintah berikut:
 
   ```bash
