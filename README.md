@@ -8,5 +8,4 @@
 
   ```bash
   pip install notebook
-```
 
