@@ -20,5 +20,19 @@ cd analisis-data
 ```bash
 jupyter notebook
 ```
-4.Buka notebook AnalisaData.ipynb dari antarmuka Jupyter Notebook.
+4. Buka notebook AnalisaData.ipynb dari antarmuka Jupyter Notebook.
 5. Jalankan sel-sel notebook sesuai kebutuhan.
+
+### **Dashboard/main.py**
+1. Download project atau unzip project.
+2. Install streamlit pada terminal:
+   ```bash
+   pip install streamlit
+   ```
+3. Install libraries atau dependencies terkait pada **requirements.txt**
+4. Jangan pindahkan file **.csv** karena csv tersebut digunakan dalam satu **main.py**
+5. Buka IDE favoritmu seperti Vscode
+6. Jalankan pada terminal
+   ```bash
+   streamlit run main.py
+   ```
