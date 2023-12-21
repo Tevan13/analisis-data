@@ -21,9 +21,9 @@
    ```bash
    pip numpy pandas matplotlib plotly seaborn
    ```
-7. Jangan pindahkan file **.csv** karena csv tersebut digunakan dalam satu **main.py**
-8. Buka IDE favoritmu seperti Vscode
-9. Kemudian install dependencies
+6. Jangan pindahkan file **.csv** karena csv tersebut digunakan dalam satu **main.py**
+7. Buka IDE favoritmu seperti Vscode
+8. Kemudian install dependencies
    ```bash
    streamlit run main.py
    ```
