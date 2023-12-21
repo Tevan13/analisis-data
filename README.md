@@ -3,25 +3,9 @@
 ## Getting Started
 
 ### **AnalisisData.ipynb**
-- Pastikan Anda telah menginstal Jupyter Notebook. Jika belum, Anda dapat menginstalnya dengan perintah berikut:
-
-  ```bash
-  pip install notebook
-  ```
-1. Kloning Repositori :
-```bash
-git clone https://github.com/Tevan13/analisis-data.git
-```
-2. Pindah ke direktori repositori:
-```bash
-cd analisis-data
-```
-3. Jalankan Jupyter Notebook:
-```bash
-jupyter notebook
-```
-4. Buka notebook AnalisaData.ipynb dari antarmuka Jupyter Notebook.
-5. Jalankan sel-sel notebook sesuai kebutuhan.
+1. Download Project kemudian unzip project
+2. Upload file `AnlisisData.ipynb` ke google colab
+3. Install dependecies yang diperlukan dan jalankan perintah yang diperlukan
 
 ### **Dashboard/main.py**
 1. Download atau unzip project ini.
